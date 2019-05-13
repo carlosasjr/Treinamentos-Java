@@ -1,0 +1,1 @@
+<a href="/Hotel/sair.jsp">Sair</a>

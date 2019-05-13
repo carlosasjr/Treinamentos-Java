@@ -1,0 +1,17 @@
+<list>
+  <disciplina>
+    <nome>Matem?tica</nome>
+    <cargaHoraria>12</cargaHoraria>
+    <professores/>
+  </disciplina>
+  <disciplina>
+    <nome>Portugues</nome>
+    <cargaHoraria>320</cargaHoraria>
+    <professores/>
+  </disciplina>
+  <disciplina>
+    <nome>Fisica</nome>
+    <cargaHoraria>320</cargaHoraria>
+    <professores/>
+  </disciplina>
+</list>
